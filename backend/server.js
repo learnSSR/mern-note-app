@@ -12,7 +12,7 @@ const app = express();
 dotenv.config();
  connectDB();
 app.use(express.json())
-
+//sending and testing changes to github
 
 app.use('/api/users', userRoutes)
 app.use('/api/notes', noteRoutes)
