@@ -1,0 +1,16 @@
+.acc_style{
+  width: 70%;
+  height: 56px;
+  border: none;
+  background: #f7f7f7;
+  outline: none !important;
+}
+
+.title_style{
+    width: max-content;
+    font-size: inherit;
+    font-size: 18px;
+    letter-spacing: 0.8px;
+    font-weight: 400;
+    color: #222222;
+}

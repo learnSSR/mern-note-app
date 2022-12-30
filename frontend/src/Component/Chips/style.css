@@ -1,0 +1,45 @@
+
+.cd_style{
+    display: flex;
+    padding: 15px;
+}
+
+.chip{
+    border-radius: 16px 16px 16px 16px;
+    height: 32px;
+    background-color: #e0e0e0;
+    display: flex;
+    margin-right: 10px;
+}
+
+.chip_text{
+    font-family: inherit;
+    color: #212121;
+    text-transform: capitalize;
+    color: #212121;
+    font-family: Roboto, sans-serif;
+    font-size: 14px;
+    line-height: 30px;
+    font-weight: 400;
+    letter-spacing: .0178571429em;
+    margin-left: 15px;
+    margin-right: 9px;
+}
+
+.chip_cancelbtn{
+    border: none;
+    background: #797979;
+    color: white;
+    font-size: 19px;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    font-weight: 900;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    line-height: 1px;
+    margin-right: 10px;
+    margin-top: 6px;
+    outline: none !important;
+}
