@@ -4,7 +4,7 @@ const data = require('./data/data')
 const dotenv  =require('dotenv');
 const path = require('path')
 const connectDB = require('./config/db.js')
-const userRoutes = require('./routes/userRoutes')
+const userRoutes = require('./Routes/userRoutes')
 const noteRoutes = require('./Routes/noteRoutes')
 const { notFound, errorHandler } = require('./Middleware/errorMiddleware')
 
