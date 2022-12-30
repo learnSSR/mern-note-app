@@ -63,7 +63,7 @@ function EditNote() {
  }
 
   return (
-    <MainScreen title="Create a Note">
+    <MainScreen title="Edit a Note">
       <Card>
         <Card.Header>Edit Note</Card.Header>
         <Card.Body>
