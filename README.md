@@ -1,5 +1,6 @@
 # mern-note-app
-mern note app full stack
+
+Mern note app Gif sometime links did not work.
 
 ![mern-note-app](https://user-images.githubusercontent.com/36187257/210137759-8a91102a-7efe-4af0-a335-99be1b6b8761.gif)
 
